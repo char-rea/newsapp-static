@@ -156,12 +156,9 @@ a {
 }
 
 /* ── Colours ── */
-.tech       { background: #fde8ef; color: #b5476a; }
-.business   { background: #fde8ef; color: #b5476a; }
-.sport      { background: #fde8ef; color: #b5476a; }
-.health     { background: #fde8ef; color: #b5476a; }
-.politics   { background: #fde8ef; color: #b5476a; }
-.science    { background: #fde8ef; color: #b5476a; }
+.netball  { background: #fde8ef; color: #b5476a; }
+.baking   { background: #fde8ef; color: #b5476a; }
+.farms    { background: #fde8ef; color: #b5476a; }
 
 /* ── CATEGORIES SECTION ── */
 .categories-section {
